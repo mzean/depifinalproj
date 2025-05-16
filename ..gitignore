@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class.gitignore
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment and local configuration
+.env
+.venv
+env/
+venv/
+ENV/
+.env.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model artifacts (large files)
+artifacts/*/
+
+# Log files
+*.log
+
+# Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.tsv
+*.sqlite
