@@ -46,7 +46,7 @@ english-french-translator/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/english-french-translator.git
+git clone https://github.com/mazen/english-french-translator.git
 cd english-french-translator
 ```
 
@@ -114,7 +114,7 @@ By default, the server will run at http://localhost:8000.
 ```json
 {
   "original_text": "Hello, how are you?",
-  "translated_text": "Bonjour, comment allez-vous ?",
+  "translated_text": "Bonjour, comment êtes-vous? ?",
   "model_used": "t5"
 }
 ```
